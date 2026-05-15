@@ -1,0 +1,15 @@
+path: /content/drive/.shortcut-targets-by-id/1BShq_OBcyNCHaqOPdYJHc_hQmaBor5wy/final_dataset
+
+train: train
+val: valid
+test: test
+
+nc: 4
+
+names:
+  0: road_crack
+  1: closed_manhole
+  2: potholes
+  3: open_manhole
+
+
