@@ -1,0 +1,16 @@
+# Dataset paths
+train: final_dataset/train/images
+val: final_dataset/valid/images
+test: final_dataset/test/images
+
+# Number of classes
+nc: 5
+
+# Class names (ORDER MUST MATCH LABEL IDS)
+names:
+  - road_crack        # 0
+  - closed_manhole    # 1
+  - potholes          # 2
+  - open_manhole      # 3
+  - broken_divider    # 4
+

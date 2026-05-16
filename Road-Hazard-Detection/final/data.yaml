@@ -1,0 +1,11 @@
+path: /kaggle/working/final
+
+train: train/images
+val: valid/images
+
+names:
+  0: road_crack
+  1: pothole
+  2: open_manhole
+  3: closed_manhole
+
